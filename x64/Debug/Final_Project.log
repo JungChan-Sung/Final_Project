@@ -1,0 +1,502 @@
+﻿  Axis.cpp
+  Boss.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(22,20): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(23,23): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(24,30): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(35,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(93,40): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(94,40): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(105,23): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(231,20): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(246,20): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(529,29): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(530,29): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(539,19): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(543,45): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(544,42): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(545,44): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(546,46): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(525,19): warning C4101: 'rotSpeed' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(564,84): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(626,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(631,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(636,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(644,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(649,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(654,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(659,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(664,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(669,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(674,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(680,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(684,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(692,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(697,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(702,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(707,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(712,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(717,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(721,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(726,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(730,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(738,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(743,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(748,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(753,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(758,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(763,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(767,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(772,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(776,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(784,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(789,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(794,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(799,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(804,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(809,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(814,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(820,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(833,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(848,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(853,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(857,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(861,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Boss.cpp(865,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Bullet.cpp
+C:\Users\Sung\source\repos\Final_Project\Bullet.cpp(7,20): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Bullet.cpp(9,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Character.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(8,20): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(9,22): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(12,28): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(28,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(245,12): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(398,33): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(401,29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(403,29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(410,10): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(445,36): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(449,27): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(472,69): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Character.cpp(517,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Common.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(7,20): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(8,23): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(9,29): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(14,22): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(17,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(177,35): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(178,23): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(202,36): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(203,23): warning C4244: '인수': 'double'에서 'const GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(228,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Common.cpp(247,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Enemy.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+  EnemyManager.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\EnemyManager.cpp(71,77): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\EnemyManager.cpp(76,122): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\EnemyManager.cpp(99,77): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\EnemyManager.cpp(104,122): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Game.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(115,75): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(116,75): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(128,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(138,30): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(141,93): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(249,48): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(249,33): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(249,19): warning C4244: '인수': 'GLfloat'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(249,13): warning C4244: '인수': 'GLfloat'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(414,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(530,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(565,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Game.cpp(1056,38): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  HealBox.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\HealBox.cpp(60,34): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\HealBox.cpp(63,47): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\HealBox.cpp(49,6): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+  Item.cpp
+C:\Users\Sung\source\repos\Final_Project\Item.cpp(5,21): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Item.cpp(31,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Missile.cpp
+C:\Users\Sung\source\repos\Final_Project\Missile.cpp(7,19): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Missile.cpp(10,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Missile.cpp(29,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Object.cpp
+  Particle.cpp
+  PlusWeapon.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+  PowBox.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+  Projectile.cpp
+C:\Users\Sung\source\repos\Final_Project\Projectile.cpp(80,29): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Projectile.cpp(81,29): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Projectile.cpp(82,29): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Projectile.cpp(87,45): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Projectile.cpp(88,42): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Projectile.cpp(89,41): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Projectile.cpp(90,46): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Projectile.cpp(76,19): warning C4101: 'rotSpeed' :참조되지 않은 지역 변수입니다.
+  Satellite.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\Satellite.cpp(10,22): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Satellite.cpp(13,28): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Satellite.cpp(69,39): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Satellite.cpp(139,16): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SBullet.cpp
+C:\Users\Sung\source\repos\Final_Project\SBullet.cpp(7,19): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\SBullet.cpp(9,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  SubWeapon.cpp
+  Turret.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(6,20): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(7,24): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(8,30): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(15,22): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(21,22): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(24,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(107,13): warning C4244: 'return': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(217,18): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(280,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Turret.cpp(306,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Unit.cpp
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(215,29): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(216,29): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(225,19): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(229,45): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(230,42): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(231,41): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(232,46): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(211,19): warning C4101: 'rotSpeed' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(264,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\Unit.cpp(265,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Vector.cpp
+C:\Users\Sung\source\repos\Final_Project\Vector.cpp(204,15): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Vector.cpp(205,15): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Vector.cpp(211,31): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\Vector.cpp(212,32): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WeaponBox.cpp
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(54,20): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(100,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(114,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(115,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(116,1): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(142,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(172,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(175,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(178,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(181,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(189,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(195,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(206,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(214,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(217,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(220,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(231,1): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(280,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(283,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,32): warning C4101: 'tx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(159,7): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(157,36): warning C4101: 'ty' :참조되지 않은 지역 변수입니다.
+C:\Users\Sung\source\repos\Final_Project\ObjLoader.h(158,13): warning C4101: 'vt_id' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  Final_Project.vcxproj -> C:\Users\Sung\source\repos\Final_Project\x64\Debug\Final_Project.exe
